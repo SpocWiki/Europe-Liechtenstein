@@ -107,8 +107,8 @@ id: Liechtenstein
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Liechtenstein//
-markerFolder: ./Liechtenstein//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Liechtenstein] 
