@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Balzers.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Balzers\CityBalzers.public.md) 
+### [Balzers](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Balzers/City/Balzers.md) 
 
-### [Balzers.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Balzers\CityBalzers.internal.md) 
+### [Balzers.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Balzers/City/Balzers.public.md) 
 
-### [Balzers.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Balzers\CityBalzers.protect.md) 
+### [Balzers.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Balzers/City/Balzers.internal.md) 
 
-### [Balzers.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Balzers\CityBalzers.private.md) 
+### [Balzers.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Balzers/City/Balzers.protect.md) 
 
-### [Balzers.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Balzers\CityBalzers.personal.md) 
+### [Balzers.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Balzers/City/Balzers.private.md) 
 
-### [Balzers.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Balzers\CityBalzers.secret.md)
+### [Balzers.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Balzers/City/Balzers.personal.md) 
+
+### [Balzers.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Balzers/City/Balzers.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mauren.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\CityMauren.public.md) 
+### [Mauren](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/City/Mauren.md) 
 
-### [Mauren.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\CityMauren.internal.md) 
+### [Mauren.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/City/Mauren.public.md) 
 
-### [Mauren.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\CityMauren.protect.md) 
+### [Mauren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/City/Mauren.internal.md) 
 
-### [Mauren.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\CityMauren.private.md) 
+### [Mauren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/City/Mauren.protect.md) 
 
-### [Mauren.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\CityMauren.personal.md) 
+### [Mauren.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/City/Mauren.private.md) 
 
-### [Mauren.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\CityMauren.secret.md)
+### [Mauren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/City/Mauren.personal.md) 
+
+### [Mauren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/City/Mauren.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Gamprin/
 
 ## Confidential Links & Embeds: 
 
-### [Gamprin.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinGamprin.public.md) 
+### [Gamprin](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin.md) 
 
-### [Gamprin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinGamprin.internal.md) 
+### [Gamprin.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin.public.md) 
 
-### [Gamprin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinGamprin.protect.md) 
+### [Gamprin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin.internal.md) 
 
-### [Gamprin.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinGamprin.private.md) 
+### [Gamprin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin.protect.md) 
 
-### [Gamprin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinGamprin.personal.md) 
+### [Gamprin.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin.private.md) 
 
-### [Gamprin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinGamprin.secret.md)
+### [Gamprin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin.personal.md) 
+
+### [Gamprin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin.secret.md)
 

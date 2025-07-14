@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nendeln.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Eschen\CityNendeln.public.md) 
+### [Nendeln](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen/City/Nendeln.md) 
 
-### [Nendeln.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Eschen\CityNendeln.internal.md) 
+### [Nendeln.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen/City/Nendeln.public.md) 
 
-### [Nendeln.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Eschen\CityNendeln.protect.md) 
+### [Nendeln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen/City/Nendeln.internal.md) 
 
-### [Nendeln.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Eschen\CityNendeln.private.md) 
+### [Nendeln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen/City/Nendeln.protect.md) 
 
-### [Nendeln.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Eschen\CityNendeln.personal.md) 
+### [Nendeln.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen/City/Nendeln.private.md) 
 
-### [Nendeln.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Eschen\CityNendeln.secret.md)
+### [Nendeln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen/City/Nendeln.personal.md) 
+
+### [Nendeln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen/City/Nendeln.secret.md)
 

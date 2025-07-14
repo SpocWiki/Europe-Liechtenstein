@@ -41,15 +41,17 @@ markerFolder: ./Planken/
 
 ## Confidential Links & Embeds: 
 
-### [Planken.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinPlanken.public.md) 
+### [Planken](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Planken.md) 
 
-### [Planken.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinPlanken.internal.md) 
+### [Planken.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Planken.public.md) 
 
-### [Planken.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinPlanken.protect.md) 
+### [Planken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Planken.internal.md) 
 
-### [Planken.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinPlanken.private.md) 
+### [Planken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Planken.protect.md) 
 
-### [Planken.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinPlanken.personal.md) 
+### [Planken.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Planken.private.md) 
 
-### [Planken.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinPlanken.secret.md)
+### [Planken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Planken.personal.md) 
+
+### [Planken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Planken.secret.md)
 

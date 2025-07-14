@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eschen.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Eschen\CityEschen.public.md) 
+### [Eschen](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen/City/Eschen.md) 
 
-### [Eschen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Eschen\CityEschen.internal.md) 
+### [Eschen.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen/City/Eschen.public.md) 
 
-### [Eschen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Eschen\CityEschen.protect.md) 
+### [Eschen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen/City/Eschen.internal.md) 
 
-### [Eschen.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Eschen\CityEschen.private.md) 
+### [Eschen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen/City/Eschen.protect.md) 
 
-### [Eschen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Eschen\CityEschen.personal.md) 
+### [Eschen.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen/City/Eschen.private.md) 
 
-### [Eschen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Eschen\CityEschen.secret.md)
+### [Eschen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen/City/Eschen.personal.md) 
+
+### [Eschen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen/City/Eschen.secret.md)
 

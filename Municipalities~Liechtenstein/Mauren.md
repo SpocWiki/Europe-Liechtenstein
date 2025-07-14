@@ -41,15 +41,17 @@ markerFolder: ./Mauren/
 
 ## Confidential Links & Embeds: 
 
-### [Mauren.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinMauren.public.md) 
+### [Mauren](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Mauren.md) 
 
-### [Mauren.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinMauren.internal.md) 
+### [Mauren.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Mauren.public.md) 
 
-### [Mauren.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinMauren.protect.md) 
+### [Mauren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Mauren.internal.md) 
 
-### [Mauren.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinMauren.private.md) 
+### [Mauren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Mauren.protect.md) 
 
-### [Mauren.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinMauren.personal.md) 
+### [Mauren.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Mauren.private.md) 
 
-### [Mauren.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinMauren.secret.md)
+### [Mauren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Mauren.personal.md) 
+
+### [Mauren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Mauren.secret.md)
 

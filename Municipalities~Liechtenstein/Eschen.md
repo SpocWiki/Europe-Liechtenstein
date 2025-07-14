@@ -41,15 +41,17 @@ markerFolder: ./Eschen/
 
 ## Confidential Links & Embeds: 
 
-### [Eschen.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinEschen.public.md) 
+### [Eschen](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen.md) 
 
-### [Eschen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinEschen.internal.md) 
+### [Eschen.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen.public.md) 
 
-### [Eschen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinEschen.protect.md) 
+### [Eschen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen.internal.md) 
 
-### [Eschen.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinEschen.private.md) 
+### [Eschen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen.protect.md) 
 
-### [Eschen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinEschen.personal.md) 
+### [Eschen.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen.private.md) 
 
-### [Eschen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinEschen.secret.md)
+### [Eschen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen.personal.md) 
+
+### [Eschen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Eschen.secret.md)
 

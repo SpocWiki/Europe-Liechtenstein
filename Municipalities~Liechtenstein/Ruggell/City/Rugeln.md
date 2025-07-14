@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rugeln.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Ruggell\CityRugeln.public.md) 
+### [Rugeln](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Ruggell/City/Rugeln.md) 
 
-### [Rugeln.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Ruggell\CityRugeln.internal.md) 
+### [Rugeln.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Ruggell/City/Rugeln.public.md) 
 
-### [Rugeln.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Ruggell\CityRugeln.protect.md) 
+### [Rugeln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Ruggell/City/Rugeln.internal.md) 
 
-### [Rugeln.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Ruggell\CityRugeln.private.md) 
+### [Rugeln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Ruggell/City/Rugeln.protect.md) 
 
-### [Rugeln.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Ruggell\CityRugeln.personal.md) 
+### [Rugeln.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Ruggell/City/Rugeln.private.md) 
 
-### [Rugeln.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Ruggell\CityRugeln.secret.md)
+### [Rugeln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Ruggell/City/Rugeln.personal.md) 
+
+### [Rugeln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Ruggell/City/Rugeln.secret.md)
 

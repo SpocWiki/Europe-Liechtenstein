@@ -41,15 +41,17 @@ markerFolder: ./Schellenberg/
 
 ## Confidential Links & Embeds: 
 
-### [Schellenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinSchellenberg.public.md) 
+### [Schellenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Schellenberg.md) 
 
-### [Schellenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinSchellenberg.internal.md) 
+### [Schellenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Schellenberg.public.md) 
 
-### [Schellenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinSchellenberg.protect.md) 
+### [Schellenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Schellenberg.internal.md) 
 
-### [Schellenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinSchellenberg.private.md) 
+### [Schellenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Schellenberg.protect.md) 
 
-### [Schellenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinSchellenberg.personal.md) 
+### [Schellenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Schellenberg.private.md) 
 
-### [Schellenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinSchellenberg.secret.md)
+### [Schellenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Schellenberg.personal.md) 
+
+### [Schellenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Schellenberg.secret.md)
 

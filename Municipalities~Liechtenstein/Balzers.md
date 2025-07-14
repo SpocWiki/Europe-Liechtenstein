@@ -41,15 +41,17 @@ markerFolder: ./Balzers/
 
 ## Confidential Links & Embeds: 
 
-### [Balzers.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinBalzers.public.md) 
+### [Balzers](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Balzers.md) 
 
-### [Balzers.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinBalzers.internal.md) 
+### [Balzers.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Balzers.public.md) 
 
-### [Balzers.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinBalzers.protect.md) 
+### [Balzers.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Balzers.internal.md) 
 
-### [Balzers.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinBalzers.private.md) 
+### [Balzers.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Balzers.protect.md) 
 
-### [Balzers.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinBalzers.personal.md) 
+### [Balzers.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Balzers.private.md) 
 
-### [Balzers.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinBalzers.secret.md)
+### [Balzers.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Balzers.personal.md) 
+
+### [Balzers.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Balzers.secret.md)
 

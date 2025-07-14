@@ -41,15 +41,17 @@ markerFolder: ./Triesen/
 
 ## Confidential Links & Embeds: 
 
-### [Triesen.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinTriesen.public.md) 
+### [Triesen](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Triesen.md) 
 
-### [Triesen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinTriesen.internal.md) 
+### [Triesen.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Triesen.public.md) 
 
-### [Triesen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinTriesen.protect.md) 
+### [Triesen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Triesen.internal.md) 
 
-### [Triesen.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinTriesen.private.md) 
+### [Triesen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Triesen.protect.md) 
 
-### [Triesen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinTriesen.personal.md) 
+### [Triesen.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Triesen.private.md) 
 
-### [Triesen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinTriesen.secret.md)
+### [Triesen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Triesen.personal.md) 
+
+### [Triesen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Triesen.secret.md)
 

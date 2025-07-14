@@ -41,15 +41,17 @@ markerFolder: ./Vaduz/
 
 ## Confidential Links & Embeds: 
 
-### [Vaduz.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinVaduz.public.md) 
+### [Vaduz](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Vaduz.md) 
 
-### [Vaduz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinVaduz.internal.md) 
+### [Vaduz.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Vaduz.public.md) 
 
-### [Vaduz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinVaduz.protect.md) 
+### [Vaduz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Vaduz.internal.md) 
 
-### [Vaduz.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinVaduz.private.md) 
+### [Vaduz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Vaduz.protect.md) 
 
-### [Vaduz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinVaduz.personal.md) 
+### [Vaduz.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Vaduz.private.md) 
 
-### [Vaduz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinVaduz.secret.md)
+### [Vaduz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Vaduz.personal.md) 
+
+### [Vaduz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Vaduz.secret.md)
 

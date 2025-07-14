@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~Central\LiechtensteinLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~Central\LiechtensteinLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~Central\LiechtensteinLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~Central\LiechtensteinLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~Central\LiechtensteinLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~Central\LiechtensteinLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.secret.md)
 
