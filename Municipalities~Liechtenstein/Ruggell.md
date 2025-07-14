@@ -40,11 +40,16 @@ markerFolder: ./Ruggell/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Ruggell|Ruggell]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Ruggell.public|Ruggell.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Ruggell.internal|Ruggell.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Ruggell.protect|Ruggell.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Ruggell.private|Ruggell.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Ruggell.personal|Ruggell.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Ruggell.secret|Ruggell.secret]] 
+
+### [Ruggell.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinRuggell.public.md) 
+
+### [Ruggell.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinRuggell.internal.md) 
+
+### [Ruggell.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinRuggell.protect.md) 
+
+### [Ruggell.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinRuggell.private.md) 
+
+### [Ruggell.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinRuggell.personal.md) 
+
+### [Ruggell.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinRuggell.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/City/Vaduz|Vaduz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/City/Vaduz.public|Vaduz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/City/Vaduz.internal|Vaduz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/City/Vaduz.protect|Vaduz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/City/Vaduz.private|Vaduz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/City/Vaduz.personal|Vaduz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/City/Vaduz.secret|Vaduz.secret]] 
+
+### [Vaduz.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Triesen\CityVaduz.public.md) 
+
+### [Vaduz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Triesen\CityVaduz.internal.md) 
+
+### [Vaduz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Triesen\CityVaduz.protect.md) 
+
+### [Vaduz.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Triesen\CityVaduz.private.md) 
+
+### [Vaduz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Triesen\CityVaduz.personal.md) 
+
+### [Vaduz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Triesen\CityVaduz.secret.md)
+

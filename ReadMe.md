@@ -127,12 +127,17 @@ Capital :: [[geo/Continent/Europe/Europe~Central/Liechtenstein/Counties/Vaduz]]
 [has_place_latitude::47.158] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Liechtenstein|Liechtenstein]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Liechtenstein.public|Liechtenstein.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Liechtenstein.internal|Liechtenstein.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Liechtenstein.protect|Liechtenstein.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Liechtenstein.private|Liechtenstein.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Liechtenstein.personal|Liechtenstein.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Liechtenstein.secret|Liechtenstein.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~Central\LiechtensteinReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\LiechtensteinReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\LiechtensteinReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~Central\LiechtensteinReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\LiechtensteinReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\LiechtensteinReadMe.secret.md)
+

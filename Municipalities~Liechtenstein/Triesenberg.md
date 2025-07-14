@@ -40,11 +40,16 @@ markerFolder: ./Triesenberg/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesenberg|Triesenberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesenberg.public|Triesenberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesenberg.internal|Triesenberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesenberg.protect|Triesenberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesenberg.private|Triesenberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesenberg.personal|Triesenberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Triesenberg.secret|Triesenberg.secret]] 
+
+### [Triesenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinTriesenberg.public.md) 
+
+### [Triesenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinTriesenberg.internal.md) 
+
+### [Triesenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinTriesenberg.protect.md) 
+
+### [Triesenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinTriesenberg.private.md) 
+
+### [Triesenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinTriesenberg.personal.md) 
+
+### [Triesenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinTriesenberg.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/City/Mels|Mels]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/City/Mels.public|Mels.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/City/Mels.internal|Mels.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/City/Mels.protect|Mels.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/City/Mels.private|Mels.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/City/Mels.personal|Mels.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/City/Mels.secret|Mels.secret]] 
+
+### [Mels.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Balzers\CityMels.public.md) 
+
+### [Mels.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Balzers\CityMels.internal.md) 
+
+### [Mels.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Balzers\CityMels.protect.md) 
+
+### [Mels.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Balzers\CityMels.private.md) 
+
+### [Mels.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Balzers\CityMels.personal.md) 
+
+### [Mels.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Balzers\CityMels.secret.md)
+

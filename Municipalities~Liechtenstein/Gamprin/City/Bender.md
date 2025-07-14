@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/City/Bender|Bender]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/City/Bender.public|Bender.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/City/Bender.internal|Bender.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/City/Bender.protect|Bender.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/City/Bender.private|Bender.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/City/Bender.personal|Bender.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/City/Bender.secret|Bender.secret]] 
+
+### [Bender.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Gamprin\CityBender.public.md) 
+
+### [Bender.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Gamprin\CityBender.internal.md) 
+
+### [Bender.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Gamprin\CityBender.protect.md) 
+
+### [Bender.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Gamprin\CityBender.private.md) 
+
+### [Bender.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Gamprin\CityBender.personal.md) 
+
+### [Bender.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~Liechtenstein\Gamprin\CityBender.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Schaan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schaan|Schaan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schaan.public|Schaan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schaan.internal|Schaan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schaan.protect|Schaan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schaan.private|Schaan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schaan.personal|Schaan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Schaan.secret|Schaan.secret]] 
+
+### [Schaan.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinSchaan.public.md) 
+
+### [Schaan.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinSchaan.internal.md) 
+
+### [Schaan.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinSchaan.protect.md) 
+
+### [Schaan.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinSchaan.private.md) 
+
+### [Schaan.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinSchaan.personal.md) 
+
+### [Schaan.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinSchaan.secret.md)
 

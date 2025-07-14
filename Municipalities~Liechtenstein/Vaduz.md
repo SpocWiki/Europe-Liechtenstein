@@ -40,11 +40,16 @@ markerFolder: ./Vaduz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Vaduz|Vaduz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Vaduz.public|Vaduz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Vaduz.internal|Vaduz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Vaduz.protect|Vaduz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Vaduz.private|Vaduz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Vaduz.personal|Vaduz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Liechtenstein/Counties/Vaduz.secret|Vaduz.secret]] 
+
+### [Vaduz.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinVaduz.public.md) 
+
+### [Vaduz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinVaduz.internal.md) 
+
+### [Vaduz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinVaduz.protect.md) 
+
+### [Vaduz.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinVaduz.private.md) 
+
+### [Vaduz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinVaduz.personal.md) 
+
+### [Vaduz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\Municipalities~LiechtensteinVaduz.secret.md)
 

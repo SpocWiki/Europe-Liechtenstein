@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Liechtenstein/City/Mauren|Mauren]] 
-- [[../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Mauren.public|Mauren.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Mauren.internal|Mauren.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Mauren.protect|Mauren.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Mauren.private|Mauren.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Mauren.personal|Mauren.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Mauren.secret|Mauren.secret]] 
+
+### [Mauren.public](/_public/\Earth\Continent\Europe\Europe~Central\Liechtenstein\CityMauren.public.md) 
+
+### [Mauren.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\CityMauren.internal.md) 
+
+### [Mauren.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Liechtenstein\CityMauren.protect.md) 
+
+### [Mauren.private](/_private/\Earth\Continent\Europe\Europe~Central\Liechtenstein\CityMauren.private.md) 
+
+### [Mauren.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Liechtenstein\CityMauren.personal.md) 
+
+### [Mauren.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Liechtenstein\CityMauren.secret.md)
+
