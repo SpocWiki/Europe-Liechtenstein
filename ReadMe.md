@@ -1,34 +1,35 @@
 ---
 location:
-- 47.158
-- 9.529
+  - 47.158
+  - 9.529
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26948
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Liechtenstein
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Liechtenstein
-- ليختنشتاين
-- 列支敦士登
-- Лихтенштейн
-- the Principality of Liechtenstein
-- el Principado de Liechtenstein
+  - Liechtenstein
+  - ليختنشتاين
+  - 列支敦士登
+  - Лихтенштейн
+  - the Principality of Liechtenstein
+  - el Principado de Liechtenstein
 Languages:
-- de-LI
+  - de-LI
 ---
 
 
