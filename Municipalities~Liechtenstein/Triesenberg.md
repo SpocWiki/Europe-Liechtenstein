@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Triesenberg
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Triesenberg/
 markerFolder: ./Triesenberg/
