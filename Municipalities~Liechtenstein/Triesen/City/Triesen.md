@@ -21,7 +21,7 @@ State ::
 Country :: [[../../../../../Europe~Central/Liechtenstein]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
