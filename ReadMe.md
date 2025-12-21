@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Liechtenstein
+  - ليختنشتاين
+  - 列支敦士登
+  - Лихтенштейн
+  - the Principality of Liechtenstein
+  - el Principado de Liechtenstein
+  - ReadMe
 location:
   - 47.158
   - 9.529
@@ -15,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Liechtenstein
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Liechtenstein
-  - ليختنشتاين
-  - 列支敦士登
-  - Лихтенштейн
-  - the Principality of Liechtenstein
-  - el Principado de Liechtenstein
+publishDate: ''
+expiryDate: ''
 Languages:
   - de-LI
 ---

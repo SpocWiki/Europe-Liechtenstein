@@ -1,16 +1,19 @@
 ---
-location: [47.2,9.53] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Eschen
+location:
+  - 47.2
+  - 9.53
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30063
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
