@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29097
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.5
+dv_has_place_latitude: 47.22
+dv_name: Bender
+dv_Country: "[[../../../../Liechtenstein]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.5] 
-[has_place_latitude::47.22] 
-[name::Bender] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Europe~Central/Liechtenstein]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bender](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin/City/Bender.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin/City/Bender|Bender]] 
 
-### [Bender.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin/City/Bender.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin/City/Bender.public|Bender.public]] 
 
-### [Bender.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin/City/Bender.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin/City/Bender.internal|Bender.internal]] 
 
-### [Bender.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin/City/Bender.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin/City/Bender.protect|Bender.protect]] 
 
-### [Bender.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin/City/Bender.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin/City/Bender.private|Bender.private]] 
 
-### [Bender.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin/City/Bender.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin/City/Bender.personal|Bender.personal]] 
 
-### [Bender.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin/City/Bender.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/Municipalities~Liechtenstein/Gamprin/City/Bender.secret|Bender.secret]] 
 

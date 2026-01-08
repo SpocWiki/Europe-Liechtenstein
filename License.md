@@ -113,17 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein/License|License]] 
 
-### [License.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.public|License.public]] 
 
-### [License.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.internal|License.internal]] 
 
-### [License.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.protect|License.protect]] 
 
-### [License.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.private|License.private]] 
 
-### [License.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.personal|License.personal]] 
 
-### [License.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein/License.secret|License.secret]] 
 
