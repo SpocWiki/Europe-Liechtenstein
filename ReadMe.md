@@ -39,15 +39,13 @@ dv_ISO4217-currency_country_name: LIECHTENSTEIN
 dv_Telephone: 423
 dv_Global: true
 dv_Global_Name: World
-dv_name: Liechtenstein
-dv_name-en:
-  - Liechtenstein
-  - Liechtenstein
-dv_name-es: Liechtenstein
-dv_name-fr: Liechtenstein
-dv_name-cn: 列支敦士登
-dv_name-ar: ليختنشتاين
-dv_name-ru: Лихтенштейн
+dv_has_name_: Liechtenstein
+dv_has_name_en: Liechtenstein
+dv_has_name_es: Liechtenstein
+dv_has_name_fr: Liechtenstein
+dv_has_name_cn: 列支敦士登
+dv_has_name_ar: ليختنشتاين
+dv_has_name_ru: Лихтенштейн
 dv_CLDR_display_name: Liechtenstein
 dv_UNTERM_English: Liechtenstein
 dv_UNTERM_English_Formal: the Principality of Liechtenstein
@@ -83,7 +81,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 438
 dv_ISO2: LI
 dv_ISO3: LIE
-dv_name-de: Liechtenstein
+dv_has_name_de: Liechtenstein
 dv_Area-Total: 160
 dv_Area-Land: 160
 dv_Continent: "[[../../../Europe]]"
@@ -109,12 +107,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Liechtenstein ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Liechtenstein ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -174,8 +172,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Liechtenstein] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Liechtenstein] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

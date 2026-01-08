@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.53
 dv_has_place_latitude: 47.25
-dv_name: Rugeln
+dv_has_name_: Rugeln
 dv_Country: "[[../../../../Liechtenstein]]"
 ---
 #is_a_/Place  

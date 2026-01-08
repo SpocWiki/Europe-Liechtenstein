@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.55
 dv_has_place_latitude: 47.22
-dv_name: Mauren
+dv_has_name_: Mauren
 dv_Country: "[[Liechtenstein]] ]"
 ---
 #is_a_/Place  
