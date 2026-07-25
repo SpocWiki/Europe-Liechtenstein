@@ -458,7 +458,7 @@ dv_UNTERM_Chinese_Formal: 列支敦士登公国
 dv_UNTERM_French_Formal: la Principauté du Liechtenstein
 dv_UNTERM_Russian: Лихтенштейн
 dv_UNTERM_Russian_Formal: Княжество Лихтенштейн
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Liechtenstein]]'
 dv_Sub-region_Name: '[[Western Europe]]'
 dv_Region: 150
@@ -483,10 +483,10 @@ dv_ISO3: LIE
 dv_has_name_de: Liechtenstein
 dv_Area-Total: 160
 dv_Area-Land: 160
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: FL
 dv_Language-Id: 497
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 9.529
 dv_has_place_latitude: 47.158
 dv_is_:
@@ -509,7 +509,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein.personal|Liechtenstein.personal]]'
 - '[[/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein.secret|Liechtenstein.secret]]'
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~European_Free_Trade_Association,166546|WD~European_Free_Trade_Association,166546]]'
 - '[[/_Standards/WikiData/WD~UN_Trade_and_Development,182000|WD~UN_Trade_and_Development,182000]]'
 - '[[/_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
@@ -569,7 +569,7 @@ demographics_of_topic: '[[/_Standards/WikiData/WD~demographics_of_Liechtenstein,
 coat_of_arms: '[[/_Standards/WikiData/WD~coat_of_arms_of_Liechtenstein,207282|WD~coat_of_arms_of_Liechtenstein,207282]]'
 central_bank: '[[/_Standards/WikiData/WD~Swiss_National_Bank,597394|WD~Swiss_National_Bank,597394]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 - '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
@@ -884,7 +884,7 @@ ISO3 = `=this.dv_ISO3`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Liechtenstein/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -905,7 +905,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Liechtenstein_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -929,9 +929,9 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[geo/Continent/Europe/Europe~Central/Liechtenstein/Counties/Vaduz|Vaduz]]  
+Capital :: [[../geo/Continent/Europe/Europe~Central/Liechtenstein/Counties/Vaduz|Vaduz]]  
 ![[Coat_of_arms_of_Liechtenstein.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Liechtenstein.mp3|Anthem-Liechtenstein.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Liechtenstein.mp3|Anthem-Liechtenstein.mp3]]
 ![[Flag_of_Liechtenstein.svg|350]]
 [Alcohol-l::]
 Language-Id = `=this.dv_Language-Id`
