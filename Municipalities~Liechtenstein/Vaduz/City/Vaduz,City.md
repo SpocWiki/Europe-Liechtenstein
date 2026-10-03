@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.52
 dv_has_place_latitude: 47.13
 dv_has_name: Vaduz
-dv_Country: "[[../../..]]"
+dv_Country: "[[../../../../Liechtenstein]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
